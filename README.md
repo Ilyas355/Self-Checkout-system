@@ -12,4 +12,4 @@
 
 ### Heres a Walkthrough video of the project
 
-[Watch this video]([https://www.youtube.com/watch?v=example](https://youtu.be/NSqBgDn5ZsI))
+[Watch this video](https://youtu.be/NSqBgDn5ZsI)
